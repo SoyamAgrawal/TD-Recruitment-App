@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>142259945650-cp4esbljq4p2n66iq8un7g9m1lk27kfa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.142259945650-cp4esbljq4p2n66iq8un7g9m1lk27kfa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwKBKLQYasFPahdVhjjU7TPV_l3qgeCRc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>142259945650</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tdTask1</string>
+	<key>PROJECT_ID</key>
+	<string>think-digital-14937</string>
+	<key>STORAGE_BUCKET</key>
+	<string>think-digital-14937.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:142259945650:ios:1e12786fddbcca6c1b09ab</string>
+</dict>
+</plist>

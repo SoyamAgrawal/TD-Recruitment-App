@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142259945650",
+    "project_id": "think-digital-14937",
+    "storage_bucket": "think-digital-14937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142259945650:android:59de5880a7968dcd1b09ab",
+        "android_client_info": {
+          "package_name": "com.example.td_task_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142259945650-tp56ftde1e1m9a8mat26asfjt5eaj7si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoo4ZgKmhDiItorZML4fuUz6_Jx_PzMOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142259945650-tp56ftde1e1m9a8mat26asfjt5eaj7si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
